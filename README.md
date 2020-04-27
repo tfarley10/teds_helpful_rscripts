@@ -1,3 +1,6 @@
+### NYC Real Estate
+
+Agrregating nyc real estate sales from [here](https://www1.nyc.gov/site/finance/taxes/property-annualized-sales-update.page). still need to toch this up a bit
 
 ### Covid PDF
 
